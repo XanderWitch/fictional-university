@@ -3,3 +3,6 @@
 [22-Jul-2022 00:14:00 UTC] PHP Parse error:  syntax error, unexpected '"></div>' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in C:\Users\janel\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 11
 [22-Jul-2022 00:14:16 UTC] PHP Parse error:  syntax error, unexpected '" ?></div>' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in C:\Users\janel\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 11
 [22-Jul-2022 00:14:25 UTC] PHP Parse error:  syntax error, unexpected 'page' (T_STRING) in C:\Users\janel\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 11
+[25-Jul-2022 18:51:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\janel\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 23
+[25-Jul-2022 19:34:20 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\janel\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 41
+[25-Jul-2022 19:34:23 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\janel\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\page.php on line 41
